@@ -16,15 +16,15 @@ export const siteConfig = {
     {
       name: "Weather Station",
       description:
-        "I run a local weather station using a Davis Vantage Pro 2 with wind, rain, temperature and radiation sensors and a Raspberry Pi with weewx as backend.",
+        "I run a local weather station using a Davis Vantage Pro 2 with wind, rain, temperature and radiation sensors and a Raspberry Pi with weewx as backend. Utilizing a robust wireless weather station for data acquisition, information is transmitted to a dedicated local server. On the software side, I've implemented a comprehensive stack to handle everything from data collection and storage to live broadcasting and interactive visualizations. The entire platform is accessible as a Progressive Web App, making it easy to view current weather insights from any device.",
       link: "https://wetter-feilnbach.de",
       skills: ["Sensors", "Raspberry Pi", "Highcharts", "MQTT"],
     },
     {
       name: "Photography",
       description:
-        "I'm passionate about photography, digital and analog. This is a collection of some of my (older) photos.",
-      link: "https://fabianschmich.com",
+        "I'm passionate about photography, digital and analog. On this portfolio page, I present various photographic projects and individual pieces, inviting everyone to explore my approach to capturing the world. The portfolio is structured to allow easy navigation through different categories of my images, offering a glimpse into the diverse subjects and styles I enjoy photographing.",
+      link: "http://fabianschmich.com",
       skills: ["Photography", "Canon", "Hasselblad"],
     },
   ],
