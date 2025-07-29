@@ -17,7 +17,7 @@ export const siteConfig = {
       name: "Weather Station",
       description:
         "I run a local weather station using a Davis Vantage Pro 2 with wind, rain, temperature and radiation sensors and a Raspberry Pi with weewx as backend. Utilizing a robust wireless weather station for data acquisition, information is transmitted to a dedicated local server. On the software side, I've implemented a comprehensive stack to handle everything from data collection and storage to live broadcasting and interactive visualizations. The entire platform is accessible as a Progressive Web App, making it easy to view current weather insights from any device.",
-      link: "https://wetter-feilnbach.de",
+      link: "http://wetter-feilnbach.de",
       skills: ["Sensors", "Raspberry Pi", "Highcharts", "MQTT"],
     },
     {
