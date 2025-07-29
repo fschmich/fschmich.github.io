@@ -1,16 +1,16 @@
 export const siteConfig = {
-  name: "Dr. Fabian Schmich",
-  title: "Sr. Principal Scientist",
+  name: "Fabian Schmich",
+  title: "Senior Principal Scientist",
   description: "Fabian Schmich",
   accentColor: "#1d4ed8",
   social: {
     email: "f@fabianschmich.com",
     linkedin: "https://linkedin.com/in/fschmich",
     twitter: "https://x.com/fschmich",
-    github: "https://github.com/fschmihc",
+    github: "https://github.com/fschmich",
   },
   aboutMe:
-    "Computational Biology PhD with 15+ years of expertise in machine learning and 8+ years in pharmaceutical R\&D, I currently work as a Senior Principal Data Scientist and AI Capability Lead at Roche. In these roles, I lead global cross-functional teams to tackle complex biological and clinical challenges, working on cutting-edge projects like clinical digital twins and lab-in-the-loop generative design for gene therapy. My hands-on approach to project and portfolio work ensures the successful execution of complex, high-risk initiatives, leveraging my deep expertise in AI/ML and catalyst leadership to deliver impactful solutions. Responsible for overseeing PhD and Postdoc programmes, I co-founded a graduate school and established an independent research group focused on AI for gene therapy design. As a lifelong learner with a can-do attitude, I am passionate about making a positive impact on patient lives.",
+    "Computational Biology PhD with 15+ years of expertise in machine learning and 8+ years in pharmaceutical R\&D, I currently work as a Senior Principal Data Scientist and AI Capability Lead at Roche. In these roles, I lead global cross-functional teams to tackle complex biological and clinical challenges, working on cutting-edge projects like clinical digital twins and lab-in-the-loop generative design for gene therapy. My hands-on approach to project and portfolio work ensures the successful execution of complex, high-risk initiatives, leveraging my deep expertise in AI/ML and leadership to deliver impactful solutions. Responsible for overseeing PhD and Postdoc programmes, I co-founded a graduate school and currently establish an independent research group focused on AI for gene therapy design. As a lifelong learner with a can-do attitude, I am passionate about making a positive impact on patient lives.",
   skills: ["Machine Learning", "Statistics", "Drug Development", "Pytorch", "Tidyverse"],
   projects: [
     {
