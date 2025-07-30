@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Fabian Schmich",
-  title: "Senior Principal Scientist",
+  title: "Sr. Principal Scientist",
   description: "Fabian Schmich",
   accentColor: "#1d4ed8",
   social: {
@@ -31,7 +31,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Roche Pharma Research and Early Development",
-      title: "Senior Principal Scientist",
+      title: "Sr. Principal Scientist",
       dateRange: "Apr. 2024 - Present",
       bullets: [
         "Leading team on Digital Twins for clinical trials",
@@ -42,7 +42,7 @@ export const siteConfig = {
     },
     {
       company: "Roche Pharma Research and Early Development",
-      title: "Senior Scientist - Principal Scientist",
+      title: "Sr. Scientist - Principal Scientist",
       dateRange: "Aug. 2016 - Mar. 2024",
       bullets: [
         "Conceptualized, developed and deployed deep learning based imaging models for lead optimization",
@@ -50,6 +50,16 @@ export const siteConfig = {
         "Co-founded a graduate school in collaboration with Helmholtz Munich, TUM and LMU",
         "Developed novel spatial statistics for measuring T cell engagement",
         "Filed six patents on machine learning for drug discovery and development and won Innovation and Science award"
+      ],
+    },
+    {
+      company: "Insitute of Cancer Research (ICR)",
+      title: "Research Scientist",
+      dateRange: "Dec. 2010 - Sep. 2011",
+      bullets: [
+        "Conducted full‑time research for my diploma, splitting time equally between wet and dry labs",
+        "Planned and conducted IHC tissue staining experiments and ran cancer tissue imaging experiments on a MALDI MS imager",
+        "Implemented a MALDI MS image processing toolkit and developed Random Forest models to predict hypoxic areas in tumors",
       ],
     },
   ],
@@ -60,6 +70,10 @@ export const siteConfig = {
       dateRange: "2012 - 2016",
       achievements: [
         "Thesis: Computational Studies in Genetic Perturbation Screening",
+        "Built statistical models to decrypt how pathogens enter human cells",
+        "Analyzed RNASeq data to explain the formation of processing bodies in eukaryotes",
+        "Built graphical models and developed an EM algorithm to integrate omics data for robust prioritisation of screening hits",
+        "Co‑organized the workshop Statistical Learning of Biological Systems from Perturbations with 80 participants",
         "Graduate courses: Computational statistics, Machine Learning, Functional Genomics, Synthetic Biology, and more",
         "Advisers: Prof. Niko Beerenwinkel (ETH), Prof. Peter Bühlmann (ETH) and Prof. Wolfgang Huber (EMBL)",
       ],
