@@ -9,7 +9,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/fschmich",
     twitter: "https://x.com/fschmich",
     github: "https://github.com/fschmich",
-    scholar: "https://scholar.google.com/citations?hl=de&user=gvHn1l0AAAAJ",
+    googleScholar: "https://scholar.google.com/citations?hl=de&user=gvHn1l0AAAAJ",
   },
   aboutMe:
     "Computational Biology PhD with 15+ years of expertise in machine learning and 8+ years in pharmaceutical R&D, I currently work as a Senior Principal Data Scientist and AI Capability Lead at Roche. In these roles, I lead global cross-functional teams to tackle complex biological and clinical challenges, making medicines for patients.",
