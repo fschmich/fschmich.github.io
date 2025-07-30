@@ -19,9 +19,9 @@ export const siteConfig = {
       title: "Sr. Principal Scientist",
       dateRange: "Apr. 2024 - Present",
       bullets: [
-        "Leading team on Digital Twins for clinical trials",
-        "Building team for leveraging AI for rAAV gene therapy design following the lab-in-the-loop concept",
-        "Responsible for developing AI strategy and building key capabilities",
+        "Leading a team on Digital Twins for clinical trials, using generative AI to forecast and deconvolute longitudinal patient trajectories",
+        "Building a team for leveraging AI for rAAV gene therapy design following the lab-in-the-loop concept",
+        "Responsible for developing the AI strategy and building key AI/ML capabilities in Data & Analytics",
         "Responsible for PhD- and PostDoc programmes in Data & Analytics"
       ],
     },
