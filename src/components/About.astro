@@ -1,5 +1,6 @@
 ---
 import { siteConfig } from "../config";
+import AboutMeContent from '../content/About.md';
 ---
 
 <section id="about" class="p-8 sm:p-12 md:p-16 lg:p-24">
@@ -20,7 +21,7 @@ import { siteConfig } from "../config";
 
       <div class="lg:col-span-8 space-y-8">
         <p class="text-lg sm:text-xl md:text-2xl leading-relaxed text-gray-600">
-          {siteConfig.aboutMe}
+          <AboutMeContent />
         </p>
 
         <div class="pt-4">
